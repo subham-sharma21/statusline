@@ -1,0 +1,28 @@
+{
+  "name": "statusline",
+  "version": "1.0.0",
+  "description": "Compact, deduplicated status line for Antigravity and AI CLI workflows",
+  "main": "token-statusline.js",
+  "scripts": {
+    "start": "node token-statusline.js",
+    "test": "node -e \"console.log('OK')\""
+  },
+  "keywords": [
+    "antigravity",
+    "statusline",
+    "cli",
+    "prompt",
+    "tokens",
+    "gemini"
+  ],
+  "author": "subham-sharma21",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subham-sharma21/statusline.git"
+  },
+  "bugs": {
+    "url": "https://github.com/subham-sharma21/statusline/issues"
+  },
+  "homepage": "https://github.com/subham-sharma21/statusline#readme"
+}
